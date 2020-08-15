@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "GPL-3.0",
+  "license": "GPL-3.0-or-later",
   "dependencies": {
     "discord.css": "git+https://github.com/Assfugil/discord.css.git"
   }
