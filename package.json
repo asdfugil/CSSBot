@@ -1,0 +1,15 @@
+{
+  "name": "CSSBot",
+  "version": "1.0.0",
+  "description": "Discord bot in CSS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "dcss index.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.css": "git+https://github.com/Assfugil/discord.css.git"
+  }
+}

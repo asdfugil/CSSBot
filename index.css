@@ -1,0 +1,29 @@
+config {
+  token: token;
+  status: Made in Discord.CSS | Use css!help for help!;
+  prefix: css!;
+}
+command {
+  name: ping;
+  message: Pong! [bot.ping]ms;
+}
+command {
+  name: howgay;
+  message: **[msg.content]** is  0-100% gay.;
+}
+command {
+  name: whoami;
+  message: You are **[author.tag]**, with id **[author.id]**.;
+}
+command {
+  name: about;
+  message: **[bot.tag]** is a bot made by Nick Chan#0001.;
+}
+command {
+  name: say;
+  message: [msg.content];
+}
+command {
+  name: help;
+  message: `ping`,`howgay <thing>`,`whoami`,`about`,`say <stuff>`,`help`;
+}
